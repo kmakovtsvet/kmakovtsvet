@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐈'𝐦 𝐄𝐤𝐚𝐭𝐞𝐫𝐢𝐧𝐚..
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐢𝐧 𝐒𝐛𝐞𝐫 𝐟𝐫𝐨𝐦 𝐑𝐮𝐬𝐬𝐢𝐚 🇷🇺</h3>
+
+<p align="center">
+  <img align="middle" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="отцентрированное изображение" /> 
+</p>
 
 <!--
 **kmakovtsvet/kmakovtsvet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
